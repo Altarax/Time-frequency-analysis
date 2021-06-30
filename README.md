@@ -3,7 +3,7 @@ I had to do a school project to do a time frequency analysis on audio and chirp 
 This project allows us (if you finish it, and i finished it) to do a Time-Frequency Analysis
 for evolutionary signals.
 
-/!\ All my comments are not in english /!\
+/!\ All my comments are not necessarily in english /!\
 
 For this project and all projects, it was obliged to create a demo version (with a chirp signal)
 and a project version (with an audio file).
